@@ -1,0 +1,10 @@
+v 1.0.0
+d 'PERCAT': Percentile-based categorisation
+d 
+d Stata module to perform percentile-based categorisation
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F percat.ado
+F percat.sthlp
